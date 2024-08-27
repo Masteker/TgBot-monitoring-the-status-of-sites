@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/Syfaro/telegram-bot-api"
+	tgbotapi "github.com/Syfaro/telegram-bot-api"
 )
 
 var (
