@@ -2,9 +2,10 @@ package main
 
 import (
 	"flag"
-	"github.com/Syfaro/telegram-bot-api"
 	"log"
 	"os"
+
+	"github.com/Syfaro/telegram-bot-api"
 )
 
 var (
